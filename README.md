@@ -6,3 +6,6 @@ A Customer & Order management application built using SAP's RESTful ABAP Program
 - Customer and Order entities with full CRUD
 - Draft handling for proper create/edit workflows
 - Combined OData V4 service exposing both entities
+
+![Customer list](customer-list.png)
+![Order details](order-detail.png)
